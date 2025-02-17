@@ -33,7 +33,7 @@ Database: SQLite / SwiftData
 Authentication: なし
 
 ## 【✨ 追加機能予定】
-・アナリティクス機能を追加
+・アナリティクス機能
 
 ・USD対応
 
