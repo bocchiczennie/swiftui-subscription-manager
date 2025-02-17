@@ -4,7 +4,7 @@
 
 DuckDuckは、登録中のサブスクリプションを管理するアプリです。Apple MusicやNetflix、Amazon Primeなど、複数のサブスクリプションをシンプルなUIで一括管理することができます。
 <br>
-App Storeには公開しておりません。公開したいです。
+App Storeには公開しておりません。公開したいです。💸
 
 ## 【🌟 特徴】
 
